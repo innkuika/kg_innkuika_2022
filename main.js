@@ -20,7 +20,7 @@ for (let i = 2; i < process.argv.length; i++) {
     if (i === process.argv.length - 1) {
         break;
     }
-    solution += `, `
+    solution += `,`
 
 }
 console.log(solution);
